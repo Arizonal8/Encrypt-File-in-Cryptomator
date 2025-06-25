@@ -1,9 +1,9 @@
 
 # 🧾 Report: Symmetric Encryption with Cryptomator
 
-## Student Name: [Your Name]
+## Student Name: [Ihekweme Arinze Fortune]
 ## Course: Cybersecurity Basics
-## Date: [Insert Date]
+## Date: [25th june 2025]
 ## Tool Used: Cryptomator
 
 ## 📌 Introduction
