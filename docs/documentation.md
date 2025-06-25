@@ -1,18 +1,18 @@
 
-# 📄 Project Documentation: File Encryption Using Cryptomator
+#  Project Documentation: File Encryption Using Cryptomator
 
-## 📌 Objective
+## Objective
 To demonstrate how to securely encrypt and decrypt files using Cryptomator, a symmetric encryption tool, on Windows OS.
 
-## 🧠 Background
+## Background
 Cryptomator is a free and open-source tool that enables end-to-end encrypted storage for cloud and local folders. It uses AES-256 encryption and creates virtual drives for managing encrypted data.
 
-## 🛠️ Tools Used
+## Tools Used
 - Windows 10
 - Cryptomator (v1.6+)
 - Screenshot tool
 
-## 🔐 Encryption Process
+## Encryption Process
 
 ### Step 1: Vault Creation
 - Created a new vault named `EncryptedFiles` using Cryptomator
@@ -33,20 +33,20 @@ Cryptomator is a free and open-source tool that enables end-to-end encrypted sto
 - Vault locked and virtual drive disappeared
 - Encrypted data remains unreadable in original vault location
 
-## 📸 Screenshots Included
+## Screenshots Included
 - `1_create_vault.png`
 - `2_set_password.png`
 - `3_unlock_vault.png`
 - `4_add_file_to_vault.png`
 - `5_lock_vault.png`
 
-## ✅ Outcome
+## Outcome
 - Successfully encrypted and decrypted files using Cryptomator
 - Learned how transparent encryption works with virtual drives
 
-## 🔒 Security Insight
+## Security Insight
 Cryptomator uses AES-256 encryption with filename obfuscation. The password is the only decryption key. Vaults can safely be uploaded to cloud storage without exposing plaintext data.
 
-## 🗂️ Additional Notes
+## Additional Notes
 - Cryptomator does not support password recovery
 - Vaults are compatible across Windows, macOS, Linux, Android, and iOS
