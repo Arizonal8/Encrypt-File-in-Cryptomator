@@ -72,5 +72,3 @@ cryptomator-encryption-project/
 3. Commit and push
 
 ---
-
-✅ This project is beginner-friendly and serves as a solid addition to a cybersecurity portfolio.
